@@ -1,5 +1,12 @@
 #include <bits/stdc++.h>
+
 #define int long long
+#define F first
+#define S second
+#define PB push_back
+#define PB push_back
+#define MP make_pair
+
 using namespace std;
 
 // constants
